@@ -52,3 +52,7 @@ if isinstance(index, set):
 ```python
 python pain.py
 ```
+
+### Evidence of rest
+In my free time I enjoy playing video games. Today it's Warcraft 3
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/df513ed9-aa3b-4705-a686-472dd0d5874a" />
