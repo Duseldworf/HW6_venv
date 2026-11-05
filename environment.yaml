@@ -70,4 +70,3 @@ dependencies:
       - tzdata==2026.6
       - uritemplate==4.2.0
       - urllib3==2.8.0
-prefix: /home/violetta/miniforge3/envs/pain
